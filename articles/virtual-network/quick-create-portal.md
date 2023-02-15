@@ -107,7 +107,7 @@ Create two VMs in the virtual network:
     :::image type="content" source="./media/quick-create-portal/azure-virtual-machine-basic-settings.png" alt-text="screenshot of creating basic settings for virtual machine." border="true":::
 
 
-1. Select the **Networking** tab, or select **Next: Disks**, then **Next: Networking**.
+1. Select the **Networking** tab, or select **Next: Disks**, then **Next: Networking**. ()
   
 1. In the Networking tab, select or enter:
 
